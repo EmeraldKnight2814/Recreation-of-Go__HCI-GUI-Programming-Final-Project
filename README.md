@@ -1,2 +1,2 @@
-# HGP-FT04_FinalProject_HCI_GUI_Programming
+# Recreation-of-Go__HCI-GUI-Programming-Final-Project
  
